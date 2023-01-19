@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222468560026",
+    "project_id": "emanager-89a64",
+    "storage_bucket": "emanager-89a64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222468560026:android:804bbb2343c70c8bfa3b23",
+        "android_client_info": {
+          "package_name": "com.example.emanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222468560026-tbc50p8ucqvitlo652k4bppme25blnbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN2ZP_Id3D2TrSkDOYWOPEcR5rCEoXkjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222468560026-tbc50p8ucqvitlo652k4bppme25blnbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
